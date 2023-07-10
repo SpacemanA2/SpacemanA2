@@ -1,5 +1,4 @@
 welcome to this place
 =
-text```
-I am spacemanA2 and I love space and making shortcuts like [help me do stuff]{need to get the link
-```
+I am spacemanA2 and I love space and making shortcuts like 
+[help me do stuff](https://github.com/SpacemanA2/Help-me-do-stuff-shortcut)
